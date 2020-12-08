@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color:#e6ffff;
+  margin:0;
+}
+h1{
+  background-color:#ffffcc;
+  padding:50px;
+  font-size:50px;
+  text-align:center;
+  color:#993366;
+}
+.bar{
+  display: flex;
+  background-color:#5c5c8a;
+  justify-content:space-around;
+}
+.bar a{
+  color: #ffcccc;
+  font-size:20px;
+  padding: 10px 20px;
+  text-decoration:none;
+  text-align: center;
+}
+.bar a:hover{
+  background-color:#1a0033;
+  color:white;
+}
+#row{
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:center;
+  margin:20px 20px;
+}
+main div{
+  margin-bottom:20px;
+}
+.card{
+  background-color:#ccffe6;
+  border-radius:10px;
+  padding-bottom:2px;
+}
+.card h3{
+  text-align:center;
+  background-color: #ffe6ff;
+  font-size:40px;
+  color: #ff8000;
+}
+.para {
+  font-family:l;
+  color:Purple;
+  font-size:30px;
+  padding:20px;
+}
+header p{
+  width=80%;
+  margin:0 30px;
+}
+.para span{
+  color: slateblue;
+  font-style:italic;
+}
+.para span.pink{
+  color: #ff0066;
+  font-style:inherit;
+}
+#items ul{
+  padding-left: 30px;
+  font-size: 30px;
+  color:#002266;
+  position: relative;
+  padding-left: 40px;
+}
+#steps ol{
+  font-size:20px;
+  color: #7a00cc;
+  margin:20px;
+}
+#serve{
+  color:#d966ff;
+  font-size:20px;
+  text-align:center;
+}
+p{
+  color:#666633;
+  padding:20px;
+  margin:20 20px;
+  font-size:30px;
+}
+#links ul{
+  list-style:circle;
+  font-size:20px;
+}
+img{
+  border-radius: 8px;
+  margin-bottom: 20px;
+  width: 350px;
+  padding-right:30px;
+  height:400px;
+}
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: lightblue;
+  }
+}
+@media screen and (min-width: 401px) and (max-width: 750px){
+  body{
+    background:#b3ffec;
+  }
+  h1 {
+    color: green;
+    background:pink;
+  }
+}
+@media (min-width: 751px){
+ section {
+   visibility:hidden; 
+  }
+}
+
+
+
+
+

@@ -1,2 +1,2 @@
 # Front-End-Fundamentals-Pirple
-HTML-CSS Assignment Docs
+HTML-CSS Assignments

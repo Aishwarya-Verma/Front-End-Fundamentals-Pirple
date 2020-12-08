@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My First Recipe</title>
+</head>
+<body>
+  <!--Name of recipe-->
+  <h1><u><b>Making Easy Pancakes</b></u></h1>
+  <p>Hello, my name is Aishwarya Verma. 
+    I'm going to share an easy recipe on making easy pancakes.</p>
+  <p> Pancakes are light and very tasty. So let's start making them!</p> 
+  <h3>Ingredients:</h3>  
+  <!--List of Ingredients-->
+  <ul>
+    <li><em>100g</em> Plain flour</li>
+    <li><em>Two</em> Large Eggs</li>
+    <li><em>300ml</em> Milk</li>
+    <li><em>1 tablespoon </em>Vegetable Oil</li>
+    <li>Lemon Wedges <em>(To Serve)</em></li>
+    <li>Caster Sugar <em>(To Serve)</em></li>
+   </ul>
+  <!--Steps to cook recipe-->
+   <h3>Steps to Cook:</h3>
+  <ol>
+    <li>Put 100g plain flour, 
+      2 large eggs, 300ml milk, 1 tablespoon vegetable oil 
+      and a pinch of salt into a bowl, 
+      then whisk to a smooth batter. &#x1F963</li>
+    <li>Let aside for 30 mins to rest. &#x1F55C</li>
+    <li>Set a medium frying pan over a medium heat and 
+      carefully wipe it with some oiled kitchen paper. &#x2668</li>
+    <li>When hot, cook your pancakes for 1 min on each side until golden, 
+      keeping them warm in a low oven as you go. &#x1F96E</li>
+    <li>Serve with lemon wedges and caster sugar, 
+      or your favourite filling. &#x1F958</li>
+      <p><em>Once cold, you can layer the pancakes between baking parchment, 
+      then wrap in cling film and freeze for up to 2 months.</em> &#x1F601</p>
+  </ol> 
+  <p>Check out below links to find more recipes for making easy pancakes!!</p>
+  <ul>
+    <li><a href="https://www.allrecipes.com/recipe/45396/easy-pancakes/">All Recipes</a></li>
+    <li><a href="https://www.inspiredtaste.net/24593/essential-pancake-recipe/">Inspired Taste</a></li>
+    <li><a href="https://www.bbcgoodfood.com/recipes/easy-pancakes">BBC Good Food</a></li>
+    <li><a href="https://www.marthastewart.com/338185/basic-pancakes">Martha Stewart</a></li>
+    <li><a href="https://www.thekitchn.com/pancakes-recipe-263226">The Kitchn</a></li>
+   </ul>
+  <!--CSS site:https://www.w3schools.com/css/default.asp-->
+  </body>
+</html>

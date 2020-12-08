@@ -1,0 +1,28 @@
+body{
+  background-color:lightgreen
+}
+h1{
+    background-color: yellow;
+    font-size:50px;
+   text-align:center;
+  border-style:groove;
+  color: red;
+}
+p{
+      font-family:calibri;
+      color: brown;
+      font-size:30px;
+}
+h3{
+    background-color: skyblue;
+      font-size:40px;
+      color: blue;
+}
+ul{
+      font-size:20px;
+      color: purple;
+}
+ol{
+      font-size:20px;
+      color: maroon;
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>The Lion King Story</title>
+</head>
+<body>
+  <!--Start of header-->
+  <header>
+    <hr>
+    <marquee bgcolor="#abf" loop="20" scrollamount="5">
+      <font face="castellar"><u>My favourite story - THE LION KING</u></font>
+    </marquee>
+    <hr>
+    <!--Story Title-->
+    <Center><h1><font face="Footlight MT Light"><u><b>THE <br>LION KING</b></u></font></h1></Center>
+    <hr width="100%" size="1"/>
+  </header>
+  <!--End of header-->
+  <!--Start of main content-->
+  <main>
+    <!--Story Script-->
+  <div>
+    <center><img src="https://images-na.ssl-images-amazon.com/images/I/51ejJK5zmBL._SX317_BO1,204,203,200_.jpg" width="40%" height="400" border="1" alt="Cover Image"/></Center>
+    <font face="Book Antiqua">
+    <p>In the Pride Lands of Africa, a pride of lions rule over the animal kingdom from Pride Rock. 
+      King Mufasa's and Queen Sarabi's newborn son, Simba, is presented to the gathering animals by Rafiki the mandrill, the kingdom's shaman and advisor. 
+      Mufasa's younger brother, Scar, covets the throne and is angered by the birth of the new prince. 
+      This is the subject of an argument with first Mufasa's majordomo, the hornbill Zazu, then Mufasa himself.</p>
+    <img src="https://i.imgur.com/cF7LwlR.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/emtYFsL.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <p>A few years later, Mufasa shows a young Simba the Pride Lands and explains to him the responsibilities of kingship and the "circle of life", which connects all living things. 
+      Meanwhile, Scar plots to eliminate Mufasa and Simba, so he may become king. He tricks Simba and his best friend Nala (to whom Simba is betrothed) into exploring a forbidden elephants' graveyard by tricking Zazu. 
+      However, the cubs are soon attacked by three spotted hyenas, Shenzi, Banzai, and Ed, who are in league with Scar. 
+      Mufasa intervenes and rescues the cubs. Though upset with Simba, Mufasa forgives him and explains that the great kings of the past watch over them from the night sky, from which he will one day watch over Simba.</p>
+    <img src="https://wehaveahulk.co.uk/wp-content/uploads/2019/07/TheLionKingHeader-800x445.jpg" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/R39voyz.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <p>Scar sets a trap for his brother and nephew, luring Simba into a gorge and having the hyenas drive a large herd of wildebeest into a stampede that will trample him. 
+      Scar himself does not interfere to save Simba, but instead informs Mufasa of Simba's peril, knowing that the king will rush to save his son. 
+      Mufasa saves Simba but ends up hanging perilously from the gorge's edge. Scar refuses to help Mufasa, instead, sending him falling to his death. 
+      He then convinces Simba that the tragedy was Simba's own fault and advises him to leave the kingdom and never return. He orders the hyenas to kill the cub, but Simba escapes. 
+      Scar tells the pride that both Mufasa and Simba were killed in the stampede and steps forward as the new king, allowing his three hyena minions and the rest of their large pack to live in the Pride Lands.</p>
+    <img src="https://i.imgur.com/FdPpoMy.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/9hj6Ya6.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/1xqWMjE.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/89If9FO.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <p>Simba collapses in a desert and is rescued by Timon and Pumbaa, a meerkat and warthog, who are fellow outcasts and chase away the vultures. 
+      Simba grows up in the jungle with his two new friends, living a carefree life under the motto "hakuna matata" ("no worries" in Swahili). Now a young adult, Simba rescues Timon and Pumbaa from a hungry lioness, who turns out to be Nala. 
+      She and Simba reunite and fall in love, and she urges him to return home, telling him that Pride Lands have become a drought-stricken wasteland under Scar's reign. Feeling guilty over his father's death, Simba refuses and storms off. 
+      He then encounters Rafiki, who tells him that Mufasa's spirit lives on in Simba. Simba is visited by the ghost of Mufasa in the night sky, who tells him that he must take his rightful place as king. 
+      Realizing that he can no longer run from his past, Simba decides to return to the Pride Lands.</p>
+    <img src="https://i.imgur.com/CrroiMI.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/Kt8bqiM.png" width="48%" height="250" border="1" alt="lil simba"/>
+    <p>Aided by his friends, Simba sneaks past the hyenas at Pride Rock and confronts Scar, who had just struck Sarabi. 
+      Scar taunts Simba over his role in Mufasa's death and backs him to the edge of the rock, where he reveals to him that he murdered Mufasa. Enraged, Simba pins Scar to the ground and forces him to reveal the truth to the rest of the pride. 
+      Timon, Pumbaa, Rafiki, Zazu, and the lionesses fend off the hyenas while Scar, attempting to escape, is cornered by Simba at the top of Pride Rock. Scar begs for mercy and attempts to blame the hyenas for his actions; Simba spares his life but orders him to leave the Pride Lands forever. 
+      Scar attacks his nephew, but Simba manages to toss him from the top of the rock. Scar survives the fall but is attacked and killed by the hyenas, who overheard his attempt to betray them. Afterward, Simba takes over the kingship as rain begins to fall. He also makes Nala his queen.</p>
+    <img src="https://i.imgur.com/n5PeehX.png" width="48%" height="300" border="1" alt="lil simba"/>
+    <img src="https://i.imgur.com/QhJMUxp.png" width="48%" height="300" border="1" alt="lil simba"/>
+    <p>Later, with Pride Rock restored to its usual state, Rafiki presents Simba and Nala's newborn cub to the assembled animals, continuing the circle of life! <br> <br><b>- By Aishwarya Verma</b></p>
+    </font>
+    <hr>
+    <center><h3>! THE END !<h3></center><hr>
+    <center>
+      <img src="https://i.imgur.com/F6TNqm6.jpg" width="90%" height="350" border="1" alt="lil simba"/>
+      <img src="https://i.imgur.com/drvRgRy.png" width="90%" height="300" border="1" alt="lil simba"/>
+    </center> <hr>
+    <h3>Story through Video<h3> <hr>
+    <center>
+      <iframe src="https://www.youtube.com/embed/mHS0KFoPGPA" width="70%" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/60yVk2bqW6w" width="70%" height="500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </center>
+    <hr>
+  </div>
+  </main>
+  <!--End of main content-->
+      <!--General Paragraph-->  
+  <div>
+    <marquee bgcolor="#abf" loop="20" scrollamount="5">
+      <font face="castellar"><u>My favourite story - THE LION KING</u></font>
+    </marquee>
+    <hr>
+    <h3>Comment Section</h3>
+    <hr>
+    <p>If you liked the story and want to share your views, please fill the details below.</p>
+  </div>
+  <!--Start of footer-->    
+  <footer>
+   <form action="mailto: aishwaryaverma107@yahoo.in"> 
+    Name: <br>
+         <input name="Name" value="" size="50"><br> 
+    Email: <br>
+          <input name="Email" value="" size="50"><br>
+    Complement: <br> 
+           <input name="Complement" value="" size="50"><br>    
+    <center><input type="Submit"></center>
+    </form>
+  </footer>
+  <!--End of footer-->  
+</body>
+</html>

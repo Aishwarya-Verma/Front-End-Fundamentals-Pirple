@@ -1,0 +1,74 @@
+body{
+  background-color:#ffffb3;
+  padding:20px;
+}
+
+h1{
+    background-color: #99ddff;
+    font-size:50px;
+    text-align:center;
+    border-style:groove;
+    color: #b300b3;
+}
+
+p{
+     font-family:calibri;
+     color: brown;
+     font-size:30px;
+     padding:20px;
+}
+div p span{
+      font-family:l;
+      color: slateblue;
+      font-size:40px;
+      font-style:italic;
+}
+div p span.red{
+      color: red;
+      font-style:inherit;
+}
+div p span#underline{
+      text-decoration: underline;
+}
+
+h3{
+      background-color: skyblue;
+      font-size:40px;
+      color: blue;
+}
+
+ul.ingredients {
+    padding-left: 30px;
+    font-size: 30px;
+    color:purple;
+    position: relative;
+    padding-left: 40px;  
+}
+ul.ingredients li:before {
+    content:'';
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-image: url('https://i.imgur.com/13057mu.jpg');
+    background-size: cover;
+    background-position: center;
+    left:0;    
+}
+
+ol.steps{
+      font-size:20px;
+      color: #ff0066;
+      list-style-type: upper-roman;
+}
+
+ul#circle{
+  list-style:circle;
+}
+
+p span{
+  color:#333300;
+}
+
+
+
+
